@@ -1,5 +1,10 @@
 ### Lists:
 1. Write a Python program to sum all the items in a list.
+my_list=[1,2,3,4]
+print(my_list)
+r=range(10)
+for i in r
+print(my_list(i))
 2. Create a function that takes a list of numbers as input and returns a new list with only the even numbers from the original list.
 3. Write a Python program to remove duplicates from a list.
 4. Implement a function to find the second largest number in a list.
